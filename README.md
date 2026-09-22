@@ -1,153 +1,191 @@
 <div align="center">
 
-Hi, I'm Anuj Kukreti 👋
+# Hi, I'm Anuj Kukreti 👋
 
-AI Evaluation & Benchmark Engineer • Software Developer
+### AI Evaluation & Benchmark Engineer | Software Developer
 
-Building reliable AI evaluation systems, coding-agent benchmarks, RL environments, and practical software products.
+I work on **AI evaluation, benchmark engineering, and software development**, with a focus on building reliable environments for testing coding agents and language models.
 
-
-
-
+[LinkedIn](https://linkedin.com/in/anujkukreti) · [Email](mailto:anujkukreti9748@gmail.com) · [GitHub](https://github.com/anujkukreti29)
 
 </div>
 
-👨‍💻 About Me
+## About Me
 
-I'm a B.Tech Computer Science & Engineering student graduating in 2027, focused on the intersection of AI evaluation, coding agents, benchmark engineering, RL environments, and software development.
+I'm a Computer Science undergraduate interested in how AI systems are tested, evaluated, and improved.
 
-My recent work has involved building and reviewing Terminal-Bench-style tasks, Harbor-based agent environments, programmatic verifiers, automated tests, and SFT/RLHF-style datasets. I enjoy understanding why an AI system succeeds or fails, then improving the task, verifier, environment, or software around it.
+Most of my work has been around **AI agent evaluation and benchmark engineering**. I have worked on creating and reviewing coding tasks, setting up reproducible Docker and Linux environments, designing automated tests and verifiers, analyzing agent execution traces, and finding weaknesses in evaluation systems.
 
-Alongside AI evaluation, I build backend and full-stack applications using Python, FastAPI, React, PostgreSQL, Docker, and REST APIs.
+I also enjoy building software and working with backend systems, automation, APIs, and structured data workflows.
 
-⚡ What I Work On
+Currently, I'm especially interested in **coding agents, evaluation infrastructure, reliable benchmarks, adversarial testing, and AI data development**.
 
-AI & Agent Evaluation — coding-agent evaluation, trajectory analysis, benchmark review, adversarial testing
+## 💼 Experience
 
-Benchmark Engineering — Terminal-Bench-style tasks, Harbor environments, test design, verifiers, reproducibility
+<details open>
+<summary><b>AI Systems Evaluation Intern | Caudal AI</b></summary>
 
-LLM Post-Training — SFT/RLHF data preparation, response evaluation, prompt and failure analysis
+<br>
 
-Software Engineering — Python backends, APIs, databases, automation, debugging, testing
+**Apr 2026 to Present · Remote**
 
-Developer Infrastructure — Docker, Linux, Git/GitHub, CI workflows, reproducible execution environments
+I work on creating, testing, and reviewing coding tasks used to evaluate AI agents.
 
-🛠️ Tech Stack
+My work involves:
 
-Languages
+* Reviewing technical requirements, solutions, and test coverage
+* Evaluating agent outputs and execution traces
+* Finding unclear requirements and verifier weaknesses
+* Identifying hardcoded solutions and evaluation loopholes
+* Investigating nondeterministic or unreliable task behavior
+* Designing adversarial cases that require genuine technical reasoning
 
+**Working with:** `Python` · `Docker` · `Linux` · `pytest` · `Git` · `Automated Testing`
 
+</details>
 
+<br>
 
+<details>
+<summary><b>Terminal Bench Task Contributor & Reviewer | Handshake AI · Project Dynamo</b></summary>
 
+<br>
 
+**Jul 2026 to Sep 2026 · Remote**
 
-Backend & Data
+Worked on building and reviewing self contained Harbor environments for evaluating coding and terminal agents.
 
+I contributed across the full evaluation workflow, including:
 
+* Writing task specifications
+* Building Docker based environments
+* Creating reference solutions
+* Designing automated test suites
+* Building independent pass or fail verifiers
+* Reviewing agent trials and execution logs
+* Diagnosing task, environment, and evaluator failures
 
+A major part of the work was improving benchmark reliability by finding issues related to **weak test coverage, hidden requirements, nondeterminism, shortcut solutions, hardcoding opportunities, and incorrect grading behavior**.
 
+**Working with:** `Harbor` · `Terminal Bench` · `Docker` · `Python` · `Linux` · `Verifiers` · `Agent Traces`
 
+</details>
 
+<br>
 
-Frontend
+<details>
+<summary><b>LLM Post Training Intern | Ethara AI</b></summary>
 
+<br>
 
+**Jan 2026 to May 2026 · Gurugram, India**
 
+Worked on data and evaluation workflows for LLM post training.
 
-Dev & Evaluation
+My work included:
 
+* Preparing and refining SFT and RLHF style datasets
+* Evaluating model responses against challenging prompts
+* Identifying hallucinations and reasoning errors
+* Reviewing instruction following behavior
+* Designing adversarial prompts and edge cases
+* Stress testing model responses across difficult scenarios
 
+**Working with:** `SFT` · `RLHF` · `LLM Evaluation` · `Dataset Engineering` · `Prompt Evaluation`
 
+</details>
 
+## 🛠️ Technical Skills
 
+### AI Evaluation & Benchmarking
 
+`AI Agent Evaluation` · `Terminal Bench` · `Harbor Environments` · `Benchmark Engineering` · `LLM Evaluation`
 
-Specialized: Terminal-Bench • Harbor • AI Agent Evaluation • LLM Evaluation • Verifier Design • Test-Case Design • SFT/RLHF • Adversarial Testing • Agent Trace Analysis
+`Verifier Design` · `Test Case Design` · `Adversarial Testing` · `Failure Analysis` · `Agent Trace Analysis`
 
-💼 Experience
+### Programming & Backend
 
-AI Systems Evaluation Intern — Caudal AI | Snorkel AI Benchmarking Project
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-Apr 2026 – Present • Remote
+`REST APIs` · `JSON Pipelines` · `Backend Development`
 
-Worked on coding-agent and Terminal-Bench-style evaluation tasks using Python, Docker, Linux, and automated test suites. Reviewed agent outputs and execution traces, identified verifier gaps, weak tests, nondeterminism, shortcut solutions, and recurring failure patterns.
+### Development, Testing & Infrastructure
 
-Terminal-Bench Task Contributor & Reviewer — Handshake AI | Project Dynamo
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat\&logo=pytest\&logoColor=white)
 
-Jul 2026 – Aug 2026 • Remote
+`Linux CLI` · `Automated Testing` · `Reproducible Environments`
 
-Created and reviewed Harbor-based RL environments for coding agents, including task specifications, Docker environments, reference solutions, tests, and programmatic verifiers. Analysed agent trials and improved benchmark reliability, reproducibility, and resistance to shortcut solutions.
+### Automation & Data
 
-LLM Post-Training Intern — Ethara AI
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat\&logo=playwright\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 
-Jan 2026 – May 2026 • Gurugram, India
+`Web Scraping` · `Data Processing` · `SFT Data` · `RLHF Data` · `Dataset Engineering`
 
-Worked on SFT and RLHF-style datasets, LLM response evaluation, adversarial prompts, and failure analysis across hallucination, reasoning, and instruction-following behavior.
+### Frontend & Development Tools
 
-🚀 Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
-🛍️ Mayabu — AI-Powered Product Matching & Price Intelligence
+`Cursor` · `Claude Code` · `ChatGPT`
 
-FastAPI • React • PostgreSQL • Playwright
+## What I Work On
 
-A full-stack product comparison platform that collects and structures pricing, ratings, and availability data across multiple e-commerce sources. Built asynchronous scraping workflows, backend APIs, product matching logic, and a responsive frontend.
+| Area                      | Focus                                                                       |
+| ------------------------- | --------------------------------------------------------------------------- |
+| **AI Agent Evaluation**   | Evaluating coding agents, outputs, traces, and task completion              |
+| **Benchmark Engineering** | Designing reliable and reproducible coding evaluation tasks                 |
+| **Verifier Design**       | Building independent checks for correct task completion                     |
+| **Adversarial Testing**   | Finding shortcuts, edge cases, exploits, and weak assumptions               |
+| **Environment Design**    | Creating isolated Docker and Linux based evaluation environments            |
+| **LLM Evaluation**        | Reviewing reasoning, correctness, hallucinations, and instruction following |
+| **AI Data**               | Preparing and reviewing SFT and RLHF style datasets                         |
+| **Software Development**  | Building backend systems, APIs, automation, and data workflows              |
 
-🎯 Role Fit AI — Resume & Job Description Analyzer
-
-Python • FastAPI • AI APIs
-
-An AI-assisted application that compares a resume with a job description and returns a structured fit score, missing skills, and actionable improvement suggestions.
-
-🎬 Movie Recommendation System
-
-Python • FastAPI • Streamlit • TMDB
-
-A content-based recommendation system using movie metadata, TF-IDF, genre similarity, and API-driven movie information.
-
-🏆 Highlights
-
-Built and reviewed coding-agent evaluation tasks in Docker/Linux environments
-
-Designed programmatic verifiers and adversarial test cases for AI benchmarks
-
-Worked with Harbor-based RL environments and agent execution traces
-
-Contributed to SFT/RLHF-style data preparation and LLM evaluation
-
-Experienced in debugging model, task, verifier, environment, and infrastructure failures
-
-Built practical backend and full-stack products using Python, FastAPI, React, PostgreSQL, and APIs
-
-📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anujkukreti29&show_icons=true&hide_border=true&rank_icon=github" alt="Anuj's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkukreti29&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anujkukreti29&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkukreti29&layout=compact&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=anujkukreti29&hide_border=true" alt="GitHub Streak" />
+<br>
+
+<img src="https://streak-stats.demolab.com?user=anujkukreti29&hide_border=true" />
 
 </div>
 
-🎯 Currently Exploring
+## 🎓 Education
 
-Agentic AI • RL Environments • Coding-Agent Benchmarks • LLM Post-Training • AI Safety & Evaluation • Reliable Agent Infrastructure
+**B.Tech in Computer Science and Engineering**
+Galgotias College of Engineering and Technology, Greater Noida
 
-🤝 Let's Connect
+Expected Graduation: **2027** · CGPA: **7.54 / 10**
 
-I'm interested in opportunities around AI evaluation, research engineering, coding agents, benchmark engineering, RL environments, post-training, and backend/AI systems.
+## Interests
 
-<div align="center">
-
-
-
-
-
-</div>
+`AI Agents` · `Benchmark Engineering` · `AI Evaluation` · `Coding Agents` · `Reliable AI Systems` · `AI Data` · `Backend Engineering`
 
 <div align="center">
-<sub>Building, evaluating, and improving intelligent systems — one reliable benchmark at a time.</sub>
+
+### Let's Connect
+
+I'm always interested in learning, building, and collaborating around **AI evaluation, benchmark engineering, coding agents, AI data, and software development**.
+
+[LinkedIn](https://linkedin.com/in/anujkukreti) · [GitHub](https://github.com/anujkukreti29) · [Email](mailto:anujkukreti9748@gmail.com)
+
 </div>
